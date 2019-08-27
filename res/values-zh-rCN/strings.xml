@@ -1,0 +1,21 @@
+<resources >
+    <string name="app_name">FusionLeo内核</string>
+    <string name="title_home">Home</string>
+    <string name="title_model">支持列表</string>
+    <string name="download_without">下载失败</string>
+    <string name="process_update">准备安装内核</string>
+    <string name="download_ok">下载完成,10秒后将自动开始更新</string>
+    <string name="leo_info">这是由FusionLeo团队所开发的内核,支持LEOROM的绝大部分机型,也兼容对应机型ROM</string>
+    <string name="leo_romname">当前使用的不是LeoROM,建议你升级到LeoROM!</string>
+    <string name="cannot_get_su">操作失败，因为缺少超级用户访问权限</string>
+    <string name="ok">OK</string>
+
+    <string name="data_loading">加载数据</string>
+    <string name="sorry">抱歉!!!</string>
+    <string name="devices_no">"好像我们还没有支持你的设备!,如果是我们型号判断错误还请与我们联系\n查看具体支持型号:https://www.leorom.cc/index.php/kernel.html"</string>
+    <string name="download_no">你的设备暂时没有可用更新!</string>
+    <string name="model_name">支持型号</string>
+    <string name="network_error">未连接到网络!</string>
+    <string name="loading_error">注:\n 由于网络波动或者所在地区原因可能出现加载的内核信息不显示,关闭本程序重新尝试一次.</string>
+    <string name="install_kernel">安装内核到设备,稍后将重新启动</string>
+</resources>
